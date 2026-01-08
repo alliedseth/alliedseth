@@ -33,7 +33,7 @@
 
 ## 🌱 About Me
 
-I'm a passionate developer building **efficient backend systems**, **polished front-end interfaces**, and exploring **scalable cloud-native architectures**.  
+I'm a developer trying to building **efficient backend systems**, **polished front-end interfaces**, and exploring **scalable cloud-native architectures**.  
 
 - 🔭 **Currently Working On:** [AI Automation Toolkit](https://github.com/sethsallies/rostats)
 - 🌱 **Learning:** Go • Rust • Kubernetes
